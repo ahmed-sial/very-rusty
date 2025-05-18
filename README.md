@@ -18,13 +18,9 @@ Contributions are welcome! Here's how you can help:
 3. Fix bugs or issues
 4. Enhance documentation
 
-## 🔍 Problem Difficulty
-
-Problems are tagged with their approximate difficulty level:
-
 ## 📖 Learning Resources
 
-Here are some helpful resources to improve your Rust skills:
+Here are some helpful resources to improve Rust skills:
 
 - [The Rust Programming Language Book](https://doc.rust-lang.org/book/)
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
