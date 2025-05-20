@@ -212,6 +212,7 @@ fn main() {
     let mut s: String = String::from("hello");
     let r1: &mut String = &mut s;
     let r2: &mut String = &mut s; // ❌ only one mutable reference is allowed for a variable in a scope.
+    println!("{}, {}", r1, r2); // ❌ will not work.
 }
 ```
 - __We can only have one mutable reference to particular piece of data in a particular scope__.
